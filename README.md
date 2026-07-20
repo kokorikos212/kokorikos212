@@ -1,6 +1,6 @@
-## Hi, I'm Kostas 👋
+## Hi, I'm Panos 👋
 
-Applied Mathematics student at the **University of Crete** with a passion for Python, machine learning, and scientific computing.
+Applied Mathematics graduate from the **University of Crete**, building a career in NLP and data science. I care about ethical AI, algorithmic governance, and turning complex data into actionable insight.
 
 ### 🛠 What I work with
 
@@ -15,19 +15,19 @@ Applied Mathematics student at the **University of Crete** with a passion for Py
 
 ### 🧠 Interests
 
-Machine learning, natural language processing, data engineering, game theory, and building practical tools with clean OOP design.
+Large language models, data journalism, game theory, political economy, ontology, and building practical tools with clean OOP design.
 
 ### 📌 Highlight projects
 
+- **[Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** — Fine-tuned an LLM on the works of Nobel laureate Odysseas Elytis to generate Greek literary text — RNNs to GPT-2
 - **[YtDownloader](https://github.com/kokorikos212/YtDownloader)** — YouTube video downloader with a tkinter GUI, built with Pytube and SQLite
 - **[YouTube-channel-data-downloader](https://github.com/kokorikos212/YouTube-channel-data-downloader)** — Pulls channel & video metadata into a relational database via the YouTube API
-- **[Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** — Character-level text generation trained on the poetry of Odysseus Elytis — RNNs to GPT-2 fine-tuning
-- **[The_Bugs](https://github.com/kokorikos212/The_Bugs)** — Hackathon project from Makeathon AI 2024, Athens
+- **[The_Bugs](https://github.com/kokorikos212/The_Bugs)** — Hackathon project from Makeathon AI 2024, Athens — turned raw data into visual insights with a functional AI agent
 - **[Game-Theory](https://github.com/kokorikos212/Game-Theory)** — Normal-form games, zero-sum strategies, and Nash equilibria computation with Nashpy
 
-### 🎸 Outside the terminal
+### 🎭 Outside the terminal
 
-Live acoustic & pop-rock performer. Catch me on stage or check out **[SkimKost](https://github.com/kokorikos212/SkimKost)**.
+Diploma in Theatre from the Art School of Thessaloniki. I bring a performer's clarity and adaptability to every team and project.
 
 ---
 

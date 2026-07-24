@@ -6,26 +6,37 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 
 ### 🧭 Domain Clusters
 
-#### 01 — Applied AI & NLP
+#### 01 — Personal & Creative Engine
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🏛️ Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** ⭐
-**AI Skills** — Fine-tuning RNNs → GPT-2 on Greek literary corpora. Full NLP pipeline from corpus preparation to model deployment on GCP.
+**[👤 kokorikos212](https://github.com/kokorikos212)** ⭐
+**Personality** — Interactive profile README with resume content and portfolio links.
 
 </td>
 <td width="50%" valign="top">
 
-**[📊 Digital_Humanities](https://github.com/kokorikos212/Digital_Humanities)** ⭐
-**Discourse Analysis** — LLM agent that extracts ontologies from text using RDF/OWL, spaCy, and semantic graph visualization.
+**[🧠 MindPixel](https://github.com/kokorikos212/MindPixel)** ⭐
+**Creativity** — Web platform built for Erasmus+ Training Course in Bansko, Bulgaria (2026). Semantic search powered by in-browser Transformers.js.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🎸 SkimKost](https://github.com/kokorikos212/SkimKost)**
+**Web Archive** — Music portfolio & press kit website.
+
+</td>
+<td width="50%" valign="top">
+&nbsp;
 </td>
 </tr>
 </table>
 
-#### 02 — Data Journalism & Computational Social Science
+#### 02 — Computational Social Science & Data Journalism
 
 <table>
 <tr>
@@ -37,79 +48,57 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 </td>
 <td width="50%" valign="top">
 
-**[🐍 Spam-or-Ham-classifier](https://github.com/kokorikos212/Spam-or-Ham-classifier)**
-**ML from Scratch** — A simple Spam or Ham classifier built from scratch. Demonstrates fundamental understanding of NLP classification pipelines.
+**[📊 Digital_Humanities](https://github.com/kokorikos212/Digital_Humanities)** ⭐
+**Discourse Analysis** — LLM agent extracting ontologies from conversational text using RDF/OWL, spaCy, and semantic graph visualization.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📡 yt-media-pipeline](https://github.com/kokorikos212/yt-media-pipeline)**
+**Data Engineering** — Consolidated toolkit: YouTube API extraction, channel metadata harvesting, SQL storage, and desktop GUI downloader.
+
+</td>
+<td width="50%" valign="top">
+&nbsp;
 </td>
 </tr>
 </table>
 
-#### 03 — Engineering & Data Pipelines
+#### 03 — Applied AI & Collaborative Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🎬 YouTube-channel-data-downloader](https://github.com/kokorikos212/YouTube-channel-data-downloader)**
-**Data Engineering** — YouTube API → SQL database pipeline for channel and video metadata harvesting.
+**[🏛️ Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** ⭐
+**AI Skills** — Full NLP pipeline: fine-tuning RNNs → GPT-2 on Greek literary corpora, model deployment on GCP.
 
 </td>
-<td width="50%" valign="top">
-
-**[💾 YtDownloader](https://github.com/kokorikos212/YtDownloader)**
-**Desktop App** — Python GUI application with Pytube, SQLite, and tkinter for YouTube video downloads.
-
-</td>
-</tr>
-</table>
-
-#### 04 — Hackathon & Collaborative Work
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 **[🐛 The_Bugs](https://github.com/kokorikos212/The_Bugs)** ⭐
-**Collaboration** — Makeathon AI 2024 hackathon entry (UniAI Athens). Voice-interactive business analytics assistant built in 48 hours with Streamlit, Cohere embeddings, and GCP Speech-to-Text.
-
-</td>
-<td width="50%" valign="top">
-
-**[🧠 MindPixel](https://github.com/kokorikos212/MindPixel)**
-**Creativity** — Web platform built for Erasmus+ Training Course in Bansko, Bulgaria (2026). Semantic search powered by in-browser Transformers.js.
+**Collaboration** — Makeathon AI 2024 hackathon entry (UniAI Athens). Voice-interactive business analytics assistant built in 48 hours.
 
 </td>
 </tr>
 </table>
 
-#### 05 — Mathematical & Academic Foundations
+#### 04 — Academic & Mathematical Foundations
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🎲 Game-Theory](https://github.com/kokorikos212/Game-Theory)**
-**Strategic Reasoning** — Normal-form games, zero-sum strategies, and Nash equilibria computation using Nashpy.
+**[📐 uoc-applied-math-archive](https://github.com/kokorikos212/uoc-applied-math-archive)**
+**Mathematical Rigor** — Structured coursework archive: algorithms, game theory, machine learning, and professional R&D from the Digital Governance Unit.
 
 </td>
 <td width="50%" valign="top">
 
-**[📐 Algorithms](https://github.com/kokorikos212/Algorithms)**
-**Rigor** — Algorithm design and analysis coursework from the UoC CS curriculum.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🤖 tem-Ml-erg1](https://github.com/kokorikos212/tem-Ml-erg1)**
-**ML Fundamentals** — Coursework from UoC's Machine Learning Principles class.
-
-</td>
-<td width="50%" valign="top">
-
-**[🏛️ Digital-governance-unit](https://github.com/kokorikos212/Digital-governance-unit)**
-**Professional R&D** — Project files from my work at the Digital Governance Unit, University of Crete.
+**[🐍 Spam-or-Ham-classifier](https://github.com/kokorikos212/Spam-or-Ham-classifier)**
+**ML from Scratch** — A spam classifier built from scratch. Demonstrates fundamental NLP classification pipeline understanding.
 
 </td>
 </tr>

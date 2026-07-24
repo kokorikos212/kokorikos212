@@ -83,6 +83,17 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🚀 Data-Science-and-Applications-2026](https://github.com/kokorikos212/Data-Science-and-Applications-2026)**
+**Astronomy DS** — Data-driven pipeline for analyzing Gaia mission data. Feature engineering, exploratory analysis, and universe visualization.
+
+</td>
+<td width="50%" valign="top">
+&nbsp;
+</td>
+</tr>
 </table>
 
 #### 04 — Academic & Mathematical Foundations

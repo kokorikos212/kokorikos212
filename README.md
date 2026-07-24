@@ -1,6 +1,6 @@
 ## Hi, I'm Panos 👋
 
-Applied Mathematics graduate from the **University of Crete**, building a career in NLP and data science. EU citizen — ready to relocate to **Prague**.
+Applied Mathematics graduate from the **University of Crete** with hands-on project experience in NLP, LLM agents, and data analysis. Looking for a junior role where I can contribute while learning from experienced engineers. EU citizen — ready to relocate to **Prague**.
 
 ---
 
@@ -43,7 +43,7 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 <td width="50%" valign="top">
 
 **[📰 YouTube-Politics](https://github.com/kokorikos212/YouTube-Politics)** ⭐
-**Data Journalism** — Auditing political engagement and entity dynamics on YouTube. BERT sentiment analysis, transparency metrics, Docker deployment.
+**Data Journalism** — Exploratory analysis of political engagement on YouTube using BERT sentiment analysis, transparency metrics, and Docker.
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 <td width="50%" valign="top">
 
 **[🏛️ Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** ⭐
-**AI Skills** — Full NLP pipeline: fine-tuning RNNs → GPT-2 on Greek literary corpora, model deployment on GCP.
+**AI Skills** — Comparative text generation: implemented three architectures (stateless RNN → stateful RNN → GPT-2) trained on Greek literary corpora.
 
 </td>
 <td width="50%" valign="top">
@@ -86,8 +86,8 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 <tr>
 <td width="50%" valign="top">
 
-**[🚀 Data-Science-and-Applications-2026](https://github.com/kokorikos212/Data-Science-and-Applications-2026)**
-**Astronomy DS** — Data-driven pipeline for analyzing Gaia mission data. Feature engineering, exploratory analysis, and universe visualization.
+**[🚀 Data-Science-and-Applications-2026](https://github.com/kokorikos212/Data-Science-and-Applications-2026)** *(fork)*
+**Astronomy DS** — Collaborative coursework: data-driven pipeline for Gaia mission data with DataFactory, ExploratoryAnalyzer, and FeatureEngineer components.
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +109,7 @@ Applied Mathematics graduate from the **University of Crete**, building a career
 <td width="50%" valign="top">
 
 **[🐍 Spam-or-Ham-classifier](https://github.com/kokorikos212/Spam-or-Ham-classifier)**
-**ML from Scratch** — A spam classifier built from scratch. Demonstrates fundamental NLP classification pipeline understanding.
+**Text Classification** — NLP classification using sklearn TF-IDF vectorization and supervised learning. Demonstrates core text classification concepts.
 
 </td>
 </tr>

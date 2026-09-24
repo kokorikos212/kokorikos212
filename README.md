@@ -83,3 +83,13 @@ Applied Mathematics graduate from the **University of Crete** with practical pro
 ---
 
 ### Technical Stack
+Languages & Storage    Python, SQL (SQLite, PostgreSQL), Bash, LaTeX
+Semantic Web & Graphs  RDFLib, OWL, RDFS, SPARQL, NetworkX, Pyvis
+Data Science & ML      PyTorch, TensorFlow, scikit-learn, Hugging Face, spaCy, Pandas, NumPy
+Tooling & Platforms    Docker, Git, Google Cloud Platform (GCP), Linux CLI, Jupyter
+
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-kokorikos212-181717?style=flat&logo=github)](https://github.com/kokorikos212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panos%20Mavroudis-0A66C2?style=flat&

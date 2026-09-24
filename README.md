@@ -1,159 +1,85 @@
-## Hi, I'm Panos 👋
+# Panos Mavroudis
 
-Applied Mathematics graduate from the **University of Crete** with hands-on project experience in NLP, LLM agents, and data analysis. Looking for a junior role where I can contribute while learning from experienced engineers. EU citizen — ready to relocate to **Prague**.
+**Applied Mathematics • Computational Semantics • Semantic Data Science**  
+*Heraklion, Greece*
+
+[![GitHub](https://img.shields.io/badge/GitHub-kokorikos212-181717?style=flat&logo=github)](https://github.com/kokorikos212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panos%20Mavroudis-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/panos-mavroudis/)
+[![Email](https://img.shields.io/badge/Email-panos.mavroudiss%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panos.mavroudiss@gmail.com)
 
 ---
 
-### 🧭 Domain Clusters
+### Overview
+
+> Too much intellectual capital is spent producing isolated knowledge, and not nearly enough on deploying it where society needs it most.
+> 
+> The defining crises of our era are not mere engineering puzzles, but rather systemic, cultural, and political.
+> 
+> My pessimistic side warns me that AI will only magnify these fractures. Yet I am driven by an optimistic conviction to use these very tools to battle the crises we face.
+> 
+> Grounding my work in Applied Mathematics, Machine Learning, and Semantic Data Science, I build pipelines that take formal computational methods out of the abstract and translate them into transparent, actionable tools for the real world.
+> 
+> I aspire to help bridge the divide: between theoretical papers and real-world societal challenges, between isolated lab environments and complex political realities—in short, between abstract theory and empirical implementation.
+
+Applied Mathematics graduate from the **University of Crete** with practical project experience across NLP architectures, agentic pipelines, and empirical data analysis. EU citizen — open to engineering and research roles in **Prague**.
+
+---
+
+### Domain Clusters & Repositories
 
 #### 01 — Personal & Creative Engine
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[👤 kokorikos212](https://github.com/kokorikos212)** ⭐
-**Personality** — Interactive profile README with resume content and portfolio links.
-
-</td>
-<td width="50%" valign="top">
-
-**[🧠 MindPixel](https://github.com/kokorikos212/MindPixel)** ⭐
-**Creativity** — Web platform built for Erasmus+ Training Course in Bansko, Bulgaria (2026). Semantic search powered by in-browser Transformers.js.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🎸 SkimKost](https://github.com/kokorikos212/SkimKost)**
-**Web Archive** — Music portfolio & press kit website.
-
-</td>
-<td width="50%" valign="top">
-&nbsp;
-</td>
-</tr>
-</table>
+| Project | Focus | Description & Implementation |
+| :--- | :--- | :--- |
+| **[kokorikos212](https://github.com/kokorikos212)** | Core Profile | Interactive profile workspace, curated curriculum vitae, and public portfolio. |
+| **[MindPixel](https://github.com/kokorikos212/MindPixel)** | In-Browser Semantics | Web platform developed for the Erasmus+ Training Course in Bansko (2026). Client-side semantic discovery powered by Transformers.js vector embeddings. |
+| **[SkimKost](https://github.com/kokorikos212/SkimKost)** | Web Archive | Music portfolio architecture, digital asset index, and press kit archive. |
 
 #### 02 — Computational Social Science & Data Journalism
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[📰 YouTube-Politics](https://github.com/kokorikos212/YouTube-Politics)** ⭐
-**Data Journalism** — Exploratory analysis of political engagement on YouTube using BERT sentiment analysis, transparency metrics, and Docker.
-
-</td>
-<td width="50%" valign="top">
-
-**[📊 Digital_Humanities](https://github.com/kokorikos212/Digital_Humanities)** ⭐
-**Discourse Analysis** — LLM agent extracting ontologies from conversational text using RDF/OWL, spaCy, and semantic graph visualization.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[📡 yt-media-pipeline](https://github.com/kokorikos212/yt-media-pipeline)**
-**Data Engineering** — Consolidated toolkit: YouTube API extraction, channel metadata harvesting, SQL storage, and desktop GUI downloader.
-
-</td>
-<td width="50%" valign="top">
-&nbsp;
-</td>
-</tr>
-</table>
+| Project | Focus | Description & Implementation |
+| :--- | :--- | :--- |
+| **[YouTube-Politics](https://github.com/kokorikos212/YouTube-Politics)** | Data Journalism | Empirical political discourse analysis utilizing Greek-BERT sentiment classification, platform reach metrics, and containerized Docker pipelines. |
+| **[Digital_Humanities](https://github.com/kokorikos212/Digital_Humanities)** | Computational Semantics | Discourse analysis engine utilizing LLM agent extraction to map conversational transcripts into formal OWL/RDFS ontologies and serialized Turtle (`.ttl`) graphs. |
+| **[yt-media-pipeline](https://github.com/kokorikos212/yt-media-pipeline)** | Data Engineering | Automated ingestion engine featuring YouTube Data API harvesting, structured SQL persistence, and desktop management utilities. |
 
 #### 03 — Applied AI & Collaborative Engineering
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🏛️ Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** ⭐
-**AI Skills** — Comparative text generation: implemented three architectures (stateless RNN → stateful RNN → GPT-2) trained on Greek literary corpora.
-
-</td>
-<td width="50%" valign="top">
-
-**[🐛 The_Bugs](https://github.com/kokorikos212/The_Bugs)** ⭐
-**Collaboration** — Makeathon AI 2024 hackathon entry (UniAI Athens). Voice-interactive business analytics assistant built in 48 hours.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🚀 Data-Science-and-Applications-2026](https://github.com/kokorikos212/Data-Science-and-Applications-2026)** *(fork)*
-**Astronomy DS** — Collaborative coursework: data-driven pipeline for Gaia mission data with DataFactory, ExploratoryAnalyzer, and FeatureEngineer components.
-
-</td>
-<td width="50%" valign="top">
-&nbsp;
-</td>
-</tr>
-</table>
+| Project | Focus | Description & Implementation |
+| :--- | :--- | :--- |
+| **[Odysseus_Elytis_model](https://github.com/kokorikos212/Odysseus_Elytis_model)** | Neural Language Modeling | Comparative sequence generation evaluating architecture transitions (Stateless RNN → Stateful RNN → fine-tuned GPT-2) on Greek literary corpora. |
+| **[The_Bugs](https://github.com/kokorikos212/The_Bugs)** | Rapid Prototyping | First-place project at Makeathon AI 2024 (UniAI Athens). Voice-enabled business analytics system delivered within 48 hours. |
+| **[Data-Science-and-Applications-2026](https://github.com/kokorikos212/Data-Science-and-Applications-2026)** | Applied ML Benchmarking | Collaborative machine learning framework applied to Gaia mission astrophysical datasets and sensor streams, incorporating modular data factories and feature engineering pipelines. |
 
 #### 04 — Academic & Mathematical Foundations
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[📐 uoc-applied-math-archive](https://github.com/kokorikos212/uoc-applied-math-archive)**
-**Mathematical Rigor** — Structured coursework archive: algorithms, game theory, machine learning, and professional R&D from the Digital Governance Unit.
-
-</td>
-<td width="50%" valign="top">
-
-**[🐍 Spam-or-Ham-classifier](https://github.com/kokorikos212/Spam-or-Ham-classifier)**
-**Text Classification** — NLP classification using sklearn TF-IDF vectorization and supervised learning. Demonstrates core text classification concepts.
-
-</td>
-</tr>
-</table>
+| Project | Focus | Description & Implementation |
+| :--- | :--- | :--- |
+| **[uoc-applied-math-archive](https://github.com/kokorikos212/uoc-applied-math-archive)** | Mathematical Rigor | Coursework and research archive spanning discrete optimization, algorithmic analysis, game-theoretic modeling, and digital governance pipelines. |
+| **[Spam-or-Ham-classifier](https://github.com/kokorikos212/Spam-or-Ham-classifier)** | Supervised Learning | Text classification baseline evaluating TF-IDF feature extraction and linear support vector classification. |
 
 ---
 
-### 💼 Experience
+### Experience
 
-| Role | Where | When |
-|------|-------|------|
-| **Junior AI Engineer** | Digital Governance Unit, UoC | 2025–2026 |
+| Role | Organization / Setting | Period |
+| :--- | :--- | :--- |
+| **Junior AI Engineer** | Digital Governance Unit, University of Crete | 2025–2026 |
 | **AI Engineer Scholar** | Zone01 | Jul 2024 |
-| **Hackathon Winner** | Makeathon AI, UniAI Athens | May 2024 |
-| **Summer School** | HIAS — AI & Ethics, Demokritus RC | Jul 2024 |
-
-### 🎓 Education
-
-| Degree | Institution |
-|--------|------------|
-| **BSc Applied Mathematics** *(ongoing)* | University of Crete — Minor in Digital Humanities |
+| **Hackathon Winner (1st Place)** | Makeathon AI, UniAI Athens | May 2024 |
+| **Summer School Fellow** | HIAS — AI & Ethics, NCSR Demokritos | Jul 2024 |
 
 ---
 
-### 🛠 Tech Stack
+### Education
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 🎭 Outside the terminal
-
-Diploma in Theatre from the Art School of Thessaloniki. I bring a performer's clarity and adaptability to every team and project.
+* **B.Sc. in Applied Mathematics** — University of Crete *(Expected 2026)*  
+  *Focus:* Computational Mathematics, Machine Learning, and Discrete Optimization.
+* **Minor in Digital Humanities** — TALOS Program, University of Crete  
+  *Focus:* Knowledge Representation, Semantic Web (RDF/OWL), and Text Technologies.
+* **Diploma in Theatre** — Art School of Thessaloniki  
+  *Focus:* Communication clarity, structural rhetoric, and collaborative production.
 
 ---
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kokorikos212)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panos-mavroudis/)
+### Technical Stack

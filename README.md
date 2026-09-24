@@ -94,4 +94,4 @@ Docker | Git | Google Cloud Platform (GCP) | Linux CLI, Jupyter
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-kokorikos212-181717?style=flat&logo=github)](https://github.com/kokorikos212)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panos%20Mavroudis-0A66C2?style=flat&
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panos%20Mavroudis-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/panos-mavroudis/)
